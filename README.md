@@ -5,5 +5,5 @@ This project analyzes retail order data from Kaggle. The workflow demonstrates a
 **Exploratory Data Analysis (EDA):** SQL Server employed to aggregate, filter, and analyze key metrics.
 **Data Visualization:** Tableau used to create interactive dashboards highlighting sales trends, top products, and regional performance.
 
-Interactive Dashboard Link:
-https://public.tableau.com/app/profile/hue.vuong1433/viz/OnlineSalesDashboard_17307186939610/Dashboard
+Tableau Dashboard:
+<a href="https://public.tableau.com/app/profile/hue.vuong1433/viz/OnlineSalesDashboard_17307186939610/Dashboard"> Link </a>
