@@ -15,13 +15,17 @@ https://www.datachangemakers.org/event-details/no-kill-colorado-2
 •  Enriched records with geographic insights by mapping ZIP codes via Google Maps API
 • Collaborated with global volunteers across US and EU time zones to deliver the analysis.
 ### Data Visualization
-Personal Viz: <p>https://public.tableau.com/app/profile/hue.vuong1433/viz/No-Kill-Colorado-Data-RTO_csv/Dashboard1</p>
-Group Viz: <p>https://public.tableau.com/app/profile/urmimala.mandal/viz/NoKillColoradoExploringtheImpactof4typesofIntakeonShelterOutcomes/Outcomes_linebar</p>
+Personal Viz: <a href="https://public.tableau.com/app/profile/hue.vuong1433/viz/No-Kill-Colorado-Data-RTO_csv/Dashboard1"> Link </a>
+Group Viz: <a href="https://public.tableau.com/app/profile/urmimala.mandal/viz/NoKillColoradoExploringtheImpactof4typesofIntakeonShelterOutcomes/Outcomes_linebar">
+Link </a>
 
 ## Teamwork
-<a href-"https://www.linkedin.com/posts/hue-vuong-a0530850_python-python-googleapi-share-7379825532890251264-YnBy?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAq5X6UBXunCeQqpdbfh9O13V1k-ypKbBfc"> LinkedIn Post </a>
+<a href="https://www.linkedin.com/posts/hue-vuong-a0530850_python-python-googleapi-share-7379825532890251264-YnBy?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAq5X6UBXunCeQqpdbfh9O13V1k-ypKbBfc"> LinkedIn Post </a>
+
+
 
                                                                                                                                                                                                                            
                                                                                                                                                       
+
 
 
