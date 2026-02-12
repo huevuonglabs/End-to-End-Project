@@ -10,13 +10,13 @@ https://www.datachangemakers.org/event-details/no-kill-colorado-2
 
 ## Approaches
 ### Data Wrangling
-•  Cleaned and transformed multi-year Colorado shelter data, analyze trend on intake, outcomes, and community impact to support the programs and services that will help every healthy and treatable pet find a safe outcome.
-•  Used Python (Pandas) to reshape datasets (melt), split/merge fields, and standardize formats for reporting.
-•  Enriched records with geographic insights by mapping ZIP codes via Google Maps API
-• Collaborated with global volunteers across US and EU time zones to deliver the analysis.
+*  Cleaned and transformed multi-year Colorado shelter data, analyze trend on intake, outcomes, and community impact to support the programs and services that will help every healthy and treatable pet find a safe outcome.
+*  Used Python (Pandas) to reshape datasets (melt), split/merge fields, and standardize formats for reporting.
+*  Enriched records with geographic insights by mapping ZIP codes via Google Maps API
+* Collaborated with global volunteers across US and EU time zones to deliver the analysis.
 ### Data Visualization
-Personal Viz: <a href="https://public.tableau.com/app/profile/hue.vuong1433/viz/No-Kill-Colorado-Data-RTO_csv/Dashboard1"> Link </a>
-Group Viz: <a href="https://public.tableau.com/app/profile/urmimala.mandal/viz/NoKillColoradoExploringtheImpactof4typesofIntakeonShelterOutcomes/Outcomes_linebar">
+* Personal Viz: <a href="https://public.tableau.com/app/profile/hue.vuong1433/viz/No-Kill-Colorado-Data-RTO_csv/Dashboard1"> Link </a>
+* Group Viz: <a href="https://public.tableau.com/app/profile/urmimala.mandal/viz/NoKillColoradoExploringtheImpactof4typesofIntakeonShelterOutcomes/Outcomes_linebar">
 Link </a>
 
 ## Teamwork
@@ -26,6 +26,7 @@ Link </a>
 
                                                                                                                                                                                                                            
                                                                                                                                                       
+
 
 
 
